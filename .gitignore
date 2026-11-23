@@ -1,0 +1,16 @@
+# Build do Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Logs e arquivos do sistema
+logs/
+*.log
+.DS_Store
+Thumbs.db
